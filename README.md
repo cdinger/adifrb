@@ -1,6 +1,6 @@
 # ADIFrb
 
-A rubygem to parse, manipulate, and manage ADIF logs and records.
+A rubygem to parse, manipulate, and manage [ADIF](https://adif.org/315/ADIF_315.htm) amateur radio logs and records.
 
 ## Installation
 
